@@ -1,1 +1,1 @@
-# NN
+MNIST data
